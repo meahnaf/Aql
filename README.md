@@ -37,8 +37,8 @@ BayanAI is an enterprise-grade bilingual AI assistant designed for Gulf business
 
 ```bash
 # Clone repository
-git clone <repo-url>
-cd windsurf-project
+git clone https://github.com/meahnaf/Aql.git
+cd project
 
 # Start with Docker
 docker-compose up -d
