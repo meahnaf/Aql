@@ -1,4 +1,4 @@
-# BayanAI - Enterprise AI Knowledge Assistant
+# AQL - Enterprise AI Knowledge Assistant
 
 **Bilingual Arabic/English RAG Platform for Enterprise Knowledge Retrieval**
 
